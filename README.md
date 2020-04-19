@@ -1,2 +1,2 @@
 # ClusterLang
-Mater's Thesis
+Master's Thesis
