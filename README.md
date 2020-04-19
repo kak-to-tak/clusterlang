@@ -1,2 +1,2 @@
-# clusterlang
+# ClusterLang
 Mater's Thesis
